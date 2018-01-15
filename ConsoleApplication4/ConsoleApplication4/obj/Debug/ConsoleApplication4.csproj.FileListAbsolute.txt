@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\MVC\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\local\Desktop\MVC\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\MVC\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\local\Desktop\MVC\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\local\Desktop\MVC\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\local\Desktop\MVC\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
